@@ -1,0 +1,4 @@
+Program penjualan yang dilengkapi algoritma apriori ini dapat digunakan untuk menganalisa 
+penjualan barang yang telah dibeli oleh konsumen yang menghasilkan keterkaitan antara barang satu 
+dengan barang lainnya. Algoritma Apriori sendiri adalah jenis aturan asosiasi pada data mining dan 
+algoritma ini terkenal untuk menemukan pola frekuensi tinggi.
